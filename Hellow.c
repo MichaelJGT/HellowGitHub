@@ -1,4 +1,5 @@
-# HellowGitHub
+//HellowGitHub
+
 #include <stdio.h>
 
 void main(){
